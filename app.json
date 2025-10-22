@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "Vanguard-Parking",
+    "slug": "Vanguard-Parking",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon do estacionamento.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.juan_oliveira.VanguardParking"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "777a8ee9-0dee-4e90-aba3-96c49708bdcd"
+      }
+    }
+  }
+}
